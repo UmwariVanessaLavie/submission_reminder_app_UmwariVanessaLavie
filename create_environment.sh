@@ -20,13 +20,13 @@ touch "$dir_name/startup.sh"
 # Populate submissions.txt with sample records
 cat << EOF > "$dir_name/assets/submissions.txt"
 Student,Assignment,Submission Status
-Chinemerem,Shell Navigation,Not Submitted
+John,Shell Basics,Not Submitted
 Chiagoziem,Git,Submitted
 Divine,Shell Navigation,Not Submitted
 Anissa,Shell Basics,Submitted
 Gatoya,Shell Navigation,Submitted
 Kagabo,Shell Navigation,Submitted
-Peter,Shell Navigation,Submitted
+Peter,Git,Submitted
 Manuel,Shell Navigation,Not Submitted
 Keilla,Shell Navigation,Not Submitted
 EOF
